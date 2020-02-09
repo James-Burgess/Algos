@@ -1,2 +1,2 @@
 # FourierTransform
-Making a FFT function for gabi &lt;3
+A python implemation of the Fast Fourier Transform
